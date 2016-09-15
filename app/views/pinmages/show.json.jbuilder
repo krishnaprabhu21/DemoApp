@@ -1,0 +1,1 @@
+json.partial! "pinmages/pinmage", pinmage: @pinmage

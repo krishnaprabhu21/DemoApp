@@ -1,0 +1,1 @@
+json.array! @pinmages, partial: 'pinmages/pinmage', as: :pinmage
